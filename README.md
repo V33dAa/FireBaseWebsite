@@ -66,7 +66,7 @@ In this project, we are required to implement two flavors of CRUD (Create, Read,
 
 To run this project locally, follow these steps:
 
-1. Clone the repository: `https://github.com/AdamRoddick/nwen304-group-project.git`
+1. Clone the repository: `https://github.com/V33DAa/nwen304-group-project.git`
 2. Cd to project directory
 3. Run `firebase emulators:start` in cmd
 
